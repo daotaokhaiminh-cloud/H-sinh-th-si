@@ -1,0 +1,6 @@
+{
+  "name": "Hệ Sinh Thái Bảo Hiểm – Kiểm tra và tối ưu hoá các quyền lợi bảo hiểm",
+  "description": "Hiểu rõ mình đang được bảo vệ bởi những gì, để tự tin chăm lo cho bản thân và gia đình.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
